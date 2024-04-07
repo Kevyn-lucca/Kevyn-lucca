@@ -20,4 +20,4 @@ Sou um estudante dedicado de Engenharia de Software especializado em desenvolvim
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevyn-lucca/&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevyn-lucca&show_icons=true)
