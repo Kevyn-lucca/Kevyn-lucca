@@ -2,7 +2,7 @@
 
 Sou um estudante dedicado de Engenharia de Software especializado em desenvolvimento front-end. Atualmente, estou cursando engenharia de software e estou apaixonado por explorar as complexidades do mundo da programação. Minha abordagem centrada no desenvolvimento front-end me permite ter uma compreensão holística do processo de desenvolvimento de software, desde a concepção da ideia até a implementação final.
 
-🔭 Atualmente estou trabalhando em um app e site que mostra o horario de jogos de futebol.
+🔭 Atualmente estou trabalhando em apps utilizando React.
 
 ---
 
